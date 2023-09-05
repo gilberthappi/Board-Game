@@ -7,7 +7,7 @@
 
 /* ############# General Style ############# */
 body {
-
+  background-color: #999;
   font-family: 'Noto Sans Display', sans-serif;
   max-width: 900px;
   width: 100%;
