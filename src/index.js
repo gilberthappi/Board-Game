@@ -10,7 +10,6 @@ refreshBtn.addEventListener('click', () => {
   resetScores();
   renderScores();
 });
-
 const myForm = document.getElementById('AddScoreForm');
 const yourName = document.getElementById('yourName');
 const yourScore = document.getElementById('yourScore');

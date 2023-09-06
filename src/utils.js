@@ -29,7 +29,6 @@ export const renderScores = async () => {
     scoreList.innerHTML += listItem;
   });
 };
-
 export const resetScores = () => {
   const scoreList = document.getElementById('scoreList');
   scoreList.innerHTML = '';
