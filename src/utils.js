@@ -21,11 +21,11 @@ export const renderScores = async () => {
   scoreList = document.getElementById('scoreList');
   readyData.result.forEach((data) => {
     const listItem = `
-        <li class="listItem">
-          <p>Name: ${data.user} </p>
-          <p>Score: ${data.score}</p>
-        </li>
-        `;
+          <li class="listItem">
+            <p>Name: ${data.user} </p>
+            <p>Score: ${data.score}</p>
+          </li>
+          `;
     scoreList.innerHTML += listItem;
   });
 };
