@@ -31,42 +31,68 @@ For more information on the importance of a professional README for your reposit
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="download.jpeg" alt="logo" width="140"  height="auto" />
+  <img src="logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  
-# Leaderboard
+  <h3><b>LeaderBoard:Board-Game</b></h3>
 
-**What I did in this project:**
+</div>
 
-  1. Setup webpack.
-  2. Make webpack generate files auto. on /dist directory.
-  3. Make site structure with styling.
-  4. Add linters files.
-  5. Add API consuming functions.
-  6. Add renderScore, resetScore functions,  event listeners.
-  7. Check linters errors and edit README file.   
+<!-- TABLE OF CONTENTS -->
+
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+- [💻 Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Setup](#setup)
+  - [Install](#install)
+  - [Usage](#usage)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
+- [📝 License](#license)
+
+<!-- PROJECT DESCRIPTION -->
+
+# 📖 Board-Game: LeaderBoard<a name="about-project"></a>
+
+> This project is about creating Game by using Javascript
 
 
-## Built With
+## 🛠 Built With <a name="built-with"></a>
 
-- HTML.
-- CSS.
-- Webpack.
-- JavaScript.
-- Linters.
+  ## Built With
+- HTML
+- CSS
+-Javascript
+-webpacks
 
-## Install:
+## Key Features
+ Feature 1:Board-Game: preserve data in the browser
 
-- Install node.js from [HERE](https://nodejs.org/en/).
+## 💻 Getting Started <a name="getting-started"></a>
+>install vs-code, node.js
+### Prerequisites
+In order to run this project you need:Browser
 
-## How to run locally:
+### Setup
+Clone this repository to your desired folder:
+git clone https://github.com/gilberthappi/Board-Game.git
+### Deployment
+You can deploy this project using:Github pages
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- AUTHORS -->
 
-1. Clone the project using git-bash or Githup Desktop.
-2. Open the project folder with VSCode or any Editor.
-3. Open terminal and navigate to the project folder.
-4. Type npm install.
-5. Type npm start.
+## Future Features
+Feature 1: A real-time chat application with support for multiple users.
+
 
 <!-- AUTHORS -->
 
@@ -115,6 +141,8 @@ YEs
 - **Heading and Styling is needed?**
 
 YEs
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
